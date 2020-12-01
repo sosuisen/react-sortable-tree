@@ -17,7 +17,6 @@ import ModifyNodesExample from './modify-nodes';
 import OnlyExpandSearchedNodesExample from './only-expand-searched-node';
 import RowDirectionExample from './rtl-support';
 import SearchExample from './search';
-import ThemesExample from './themes';
 import TouchSupportExample from './touch-support';
 import TreeDataIOExample from './tree-data-io';
 import TreeToTreeExample from './tree-to-tree';
@@ -29,7 +28,6 @@ storiesOf('Basics', module)
   .add('Modify nodes', () => <ModifyNodesExample />)
   .add('Prevent drop', () => <CanDropExample />)
   .add('Search', () => <SearchExample />)
-  .add('Themes', () => <ThemesExample />)
   .add('Callbacks', () => <CallbacksExample />)
   .add('Row direction support', () => <RowDirectionExample />)
   .add('Dynamic row height', () => <DynamicRowHeightExample />);
