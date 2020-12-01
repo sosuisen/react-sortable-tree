@@ -115,7 +115,6 @@
     "react-dnd-touch-backend": "^9.4.0",
     "react-dom": "^16.11.0",
     "react-hot-loader": "^4.12.17",
-    "react-sortable-tree-theme-file-explorer": "^2.0.0",
     "react-test-renderer": "^16.11.0",
     "rimraf": "^3.0.0",
     "rollup": "^1.27.0",
